@@ -1,0 +1,369 @@
+{
+  "builder_name": "imagefolder",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "od_metal_dam",
+  "dataset_size": 12801,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph0.jpg": {
+      "num_bytes": 460229,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph1.jpg": {
+      "num_bytes": 744978,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph10.jpg": {
+      "num_bytes": 674289,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph11.jpg": {
+      "num_bytes": 821218,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph12.jpg": {
+      "num_bytes": 686713,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph13.jpg": {
+      "num_bytes": 684921,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph14.jpg": {
+      "num_bytes": 609806,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph15.jpg": {
+      "num_bytes": 587890,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph16.jpg": {
+      "num_bytes": 602238,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph17.jpg": {
+      "num_bytes": 751924,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph18.jpg": {
+      "num_bytes": 679679,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph19.jpg": {
+      "num_bytes": 787488,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph2.jpg": {
+      "num_bytes": 754157,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph20.jpg": {
+      "num_bytes": 696531,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph21.jpg": {
+      "num_bytes": 739005,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph22.jpg": {
+      "num_bytes": 1043131,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph23.jpg": {
+      "num_bytes": 660274,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph24.jpg": {
+      "num_bytes": 679155,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph25.jpg": {
+      "num_bytes": 691469,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph26.jpg": {
+      "num_bytes": 591435,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph27.jpg": {
+      "num_bytes": 672809,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph28.jpg": {
+      "num_bytes": 661759,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph29.jpg": {
+      "num_bytes": 701675,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph3.jpg": {
+      "num_bytes": 739108,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph30.jpg": {
+      "num_bytes": 684864,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph31.jpg": {
+      "num_bytes": 709633,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph32.jpg": {
+      "num_bytes": 967666,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph33.jpg": {
+      "num_bytes": 872141,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph34.jpg": {
+      "num_bytes": 587903,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph35.jpg": {
+      "num_bytes": 672413,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph36.jpg": {
+      "num_bytes": 749187,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph37.jpg": {
+      "num_bytes": 680489,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph38.jpg": {
+      "num_bytes": 696141,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph39.jpg": {
+      "num_bytes": 692156,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph4.jpg": {
+      "num_bytes": 697636,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph40.jpg": {
+      "num_bytes": 691011,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph41.jpg": {
+      "num_bytes": 854191,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph5.jpg": {
+      "num_bytes": 667782,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph6.jpg": {
+      "num_bytes": 679678,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph7.jpg": {
+      "num_bytes": 591165,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph8.jpg": {
+      "num_bytes": 1097487,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/data/micrograph9.jpg": {
+      "num_bytes": 778241,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph0.png": {
+      "num_bytes": 45006,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph1.png": {
+      "num_bytes": 51846,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph10.png": {
+      "num_bytes": 44136,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph11.png": {
+      "num_bytes": 50422,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph12.png": {
+      "num_bytes": 49750,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph13.png": {
+      "num_bytes": 47983,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph14.png": {
+      "num_bytes": 41084,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph15.png": {
+      "num_bytes": 45501,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph16.png": {
+      "num_bytes": 46777,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph17.png": {
+      "num_bytes": 53628,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph18.png": {
+      "num_bytes": 49362,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph19.png": {
+      "num_bytes": 47460,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph2.png": {
+      "num_bytes": 49072,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph20.png": {
+      "num_bytes": 46565,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph21.png": {
+      "num_bytes": 52185,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph22.png": {
+      "num_bytes": 67557,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph23.png": {
+      "num_bytes": 42697,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph24.png": {
+      "num_bytes": 51311,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph25.png": {
+      "num_bytes": 50143,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph26.png": {
+      "num_bytes": 52310,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph27.png": {
+      "num_bytes": 43399,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph28.png": {
+      "num_bytes": 41020,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph29.png": {
+      "num_bytes": 51062,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph3.png": {
+      "num_bytes": 50784,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph30.png": {
+      "num_bytes": 49662,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph31.png": {
+      "num_bytes": 54064,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph32.png": {
+      "num_bytes": 71294,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph33.png": {
+      "num_bytes": 64209,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph34.png": {
+      "num_bytes": 45143,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph35.png": {
+      "num_bytes": 52884,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph36.png": {
+      "num_bytes": 66968,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph37.png": {
+      "num_bytes": 60397,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph38.png": {
+      "num_bytes": 55263,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph39.png": {
+      "num_bytes": 53790,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph4.png": {
+      "num_bytes": 56033,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph40.png": {
+      "num_bytes": 39072,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph41.png": {
+      "num_bytes": 59141,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph5.png": {
+      "num_bytes": 45205,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph6.png": {
+      "num_bytes": 46905,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph7.png": {
+      "num_bytes": 48835,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph8.png": {
+      "num_bytes": 83530,
+      "checksum": null
+    },
+    "hf://datasets/Voxel51/OD_MetalDAM@ead00fde0a74e251b5a2e541004a67e8954d8537/fields/mask/micrograph9.png": {
+      "num_bytes": 50874,
+      "checksum": null
+    }
+  },
+  "download_size": 32265994,
+  "features": {
+    "image": {
+      "_type": "Image"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 32278795,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 12801,
+      "num_examples": 84,
+      "dataset_name": "od_metal_dam"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

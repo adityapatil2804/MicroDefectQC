@@ -1,0 +1,12 @@
+{
+  "index": 13,
+  "threshold": 0.2828,
+  "defect_area_px": 970,
+  "total_area_px": 65536,
+  "defect_percent": 1.4801025390625,
+  "defect_count": 248,
+  "avg_defect_size_px": 3.911290322580645,
+  "max_defect_size_px": 92.0,
+  "grade": "B",
+  "overlay_path": "outputs\\batch_overlays\\idx_0013_overlay.png"
+}

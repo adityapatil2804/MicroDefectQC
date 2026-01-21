@@ -1,0 +1,14 @@
+{
+  "image": "data\\processed\\sample_images\\micrograph_0.jpg",
+  "model": "models/ae_best.pt",
+  "img_size": 256,
+  "threshold": 0.08,
+  "defect_area_px": 10776,
+  "total_area_px": 65536,
+  "defect_percent": 16.44287109375,
+  "defect_count": 816,
+  "avg_defect_size_px": 13.205882352941176,
+  "max_defect_size_px": 369.0,
+  "grade": "C",
+  "overlay_path": "outputs\\overlays\\micrograph_0_overlay.png"
+}
